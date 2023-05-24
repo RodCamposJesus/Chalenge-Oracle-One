@@ -5,3 +5,4 @@ Conversor de moeda
 #Salvando modificações no git
 Comando git Push
 Comando git pull
+COmando git fatch
