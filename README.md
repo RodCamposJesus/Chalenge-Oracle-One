@@ -3,4 +3,5 @@ Conversor de moeda
 ##Gravando mudanças no repositório/
 
 #Salvando modificações no git
+Comando git Push
 Comando git pull
